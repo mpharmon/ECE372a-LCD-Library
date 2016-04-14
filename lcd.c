@@ -2,11 +2,11 @@
  *  Class: ECE372a
  * 
  *  Group: 209
+ * 
+ *  LCD Library
  *
- *  Lab: 1 Part 3
- * 
- *  File: lcd.c
- * 
+ *  File: lcd.h
+ *
  *  Member: Michael Harmon (Software)
  *          Abdul Rana (Hardware)
  *          James Beulke (System Integration)

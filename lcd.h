@@ -1,9 +1,16 @@
 /*  
  *  Class: ECE372a
  * 
- *  LCD Control
+ *  Group: 209
+ * 
+ *  LCD Library
  *
  *  File: lcd.h
+ *
+ *  Member: Michael Harmon (Software)
+ *          Abdul Rana (Hardware)
+ *          James Beulke (System Integration)
+ *          Ali Hassan (Quality Control)
  */
 
 #ifndef LCD_H_
